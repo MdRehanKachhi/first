@@ -1,3 +1,3 @@
 # first
 this is first repositry <br>
-author - md rehan 
+author - md rehan kachhi
